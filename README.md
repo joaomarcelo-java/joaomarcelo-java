@@ -72,6 +72,6 @@ Entusiasta de segurança — acredito que entender como sistemas podem ser compr
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Marcelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcelo-0244ba35a/)
-[![Gmail](https://img.shields.io/badge/Gmail-diasdelutach@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diasdelutach@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-diasdelutach@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmalfatiribeiro@gmail.com)
 
 </div>
