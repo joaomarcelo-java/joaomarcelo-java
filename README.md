@@ -66,7 +66,7 @@ Entusiasta de segurança — acredito que entender como sistemas podem ser compr
 | [ClientesCS](https://github.com/joaomarcelo-java/ClientesCS) | Cadastro de clientes com SQL Server e ADO.NET puro | C# · SQL Server · ADO.NET |
 | [Econsciência](https://github.com/joaomarcelo-java/Econsciencia) | Quiz de pegada de carbono com gráficos comparativos | HTML · CSS · JS · Chart.js |
 | [Calculadora UNIP](https://github.com/joaomarcelo-java/Calculadora-de-Notas-UNIP) | Calculadora de médias da UNIP com dark mode | HTML · CSS · JavaScript |
-| [Medival-Api] (https://github.com/joaomarcelo-java/Medieval-Api) | Backend RESTful para um sistema de RPG medieval. | NestJS · Prisma · PostgreeSQL |
+| [Medival-Api](https://github.com/joaomarcelo-java/Medieval-Api) | Backend RESTful para um sistema de RPG medieval. | NestJS · Prisma · PostgreeSQL |
 
 ---
 
