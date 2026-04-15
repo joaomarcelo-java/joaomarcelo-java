@@ -67,6 +67,7 @@ Entusiasta de segurança — acredito que entender como sistemas podem ser compr
 | [Econsciência](https://github.com/joaomarcelo-java/Econsciencia) | Quiz de pegada de carbono com gráficos comparativos | HTML · CSS · JS · Chart.js |
 | [Calculadora UNIP](https://github.com/joaomarcelo-java/Calculadora-de-Notas-UNIP) | Calculadora de médias da UNIP com dark mode | HTML · CSS · JavaScript |
 | [Medival-Api](https://github.com/joaomarcelo-java/Medieval-Api) | Backend RESTful para um sistema de RPG medieval. | NestJS · Prisma · PostgreeSQL |
+| [Kanban](https://github.com/joaomarcelo-java/kanban.git) | Aplicação Web de quadros Kanban! | Angular · NestJS · Prisma · PostgreeSQL |
 
 ---
 
