@@ -8,10 +8,9 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNIP, com foco em desenvolvimento back-end. Apaixonado por lógica, POO e por resolver problemas de forma eficiente.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP, com foco em desenvolvimento back-end. Apaixonado por lógica de programação, POO e por resolver problemas complexos de forma eficiente.
 
-Desenvolvo em C#, Java e Python, e tenho conhecimento básico em PHP e frotn-end. Usei Linux por anos, o que me deu uma base sólida em ambientes de linha de comando. Por curiosidade, mergulhei no mundo da segurança da informação — pratico em plataformas como **Hack The Box** e **TryHackMe**.
-
+Atualmente, desenvolvo utilizando Java (Spring Boot), C#, Node.js, JavaScript, Python e SQL. Uso Linux há anos como sistema principal, o que me deu uma base sólida em ambientes de linha de comando e administração de sistemas. Além disso, movido pela curiosidade por segurança da informação, pratico frequentemente em plataformas como Hack The Box e TryHackMe.
 Atualmente buscando minha primeira oportunidade como **estagiário ou desenvolvedor júnior**.
 
 ---
